@@ -1,0 +1,2 @@
+normal count: 11
+tumor count: 162

@@ -1,0 +1,5 @@
+id	filename	md5	size	state
+58390670-c78f-4baf-b478-90ee01d15158	TCGA.STAD.muse.58390670-c78f-4baf-b478-90ee01d15158.DR-10.0.somatic.maf.gz	8b2858da0b248e2d375b2de44a42655e	39601893	validated
+6a5e4a85-f398-43b0-89cf-a680fd3737fa	TCGA.STAD.somaticsniper.6a5e4a85-f398-43b0-89cf-a680fd3737fa.DR-10.0.somatic.maf.gz	f6136aa57188385c6850b8a3e4cc00ae	30602667	validated
+c06465a3-50e7-46f7-b2dd-7bd654ca206b	TCGA.STAD.mutect.c06465a3-50e7-46f7-b2dd-7bd654ca206b.DR-10.0.somatic.maf.gz	e0462a747a83d3f09abb28b83c1b634e	54560201	validated
+e03d57b9-66dd-4dac-aa8e-597ed4a4559d	TCGA.STAD.varscan.e03d57b9-66dd-4dac-aa8e-597ed4a4559d.DR-10.0.somatic.maf.gz	ba469b48122c6b23af2eaecf9adcbc70	48142501	validated
